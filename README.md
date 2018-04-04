@@ -1,3 +1,3 @@
-# Image Classification with Tensorflow
+# Image Classification
 
-Here we implement a simple convolutional neural network (CNN) to classify handwritten digits from the MNIST dataset.
+Here we implement a simple convolutional neural network (CNN) in TensorFlow to classify handwritten digits from the MNIST dataset.
